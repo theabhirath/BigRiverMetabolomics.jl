@@ -1,0 +1,4 @@
+name = "BigRiverMetabolomics"
+uuid = "232b8f78-c522-45ea-bf09-98a0e4fcf2c7"
+authors = ["GregFa <faragegr@gmail.com>"]
+version = "0.1.0"
